@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project 14 of Android Course With Saumya Singh- Alert Dialog boxes</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="alert_dialog_boxes">Alert dialog boxes</string>
+    <string name="com_ritikcoder">com.RitikCoder</string>
+    <string name="alert_dialog_boxes1">Alert Dialog Boxes</string>
+    <string name="alert_dialog_box_1">Alert Dialog Box 1</string>
+    <string name="alert_dialog_box_2">Alert Dialog Box 2</string>
+    <string name="alert_dialog_box_3">Alert Dialog Box 3</string>
+</resources>
